@@ -3,7 +3,7 @@
  Module 08 Lab Assignment
  Part B
  
- This has a simple print of good morning.
+ This has a simple print of good morning and what you'd like to eat.
 """
 
 print("Good morning")
